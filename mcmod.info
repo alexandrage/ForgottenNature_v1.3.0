@@ -1,0 +1,17 @@
+[
+{
+  "modid": "forgottennature",
+  "name": "Forgotten Nature",
+  "description": "A nature mod that adds trees, crops, flowers, stones, food, biomes and many other things that pertain to nature to Minecraft",
+  "version": "1.3.0",
+  "mcversion": "1.6.2",
+  "url": "http://www.minecraftforum.net/topic/981855-",
+  "updateUrl":"",
+  "authors":["Nightshade_Proleath"],
+  "credits": "Authored by Nightshade_Proleath, based on an original idea by Nandonalt, named by ChandlerBingUA",
+  "logoFile": "",
+  "screenshots":[],
+  "parent":"",
+  "dependencies":["mod_MinecraftForge"]
+}
+]
